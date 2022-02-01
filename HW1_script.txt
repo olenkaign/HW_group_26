@@ -1,0 +1,10 @@
+#!/bin/bash
+
+cd /c/qa/group_26/DZ_1/papka1
+mkdir pap1 pap2 pap3
+cd /c/qa/group_26/DZ_1/papka1/pap1
+touch f1.txt f2.txt f3.txt d1.json d2.json
+mkdir s1 s2 s3
+ls -la
+mv f1.txt s1/
+
